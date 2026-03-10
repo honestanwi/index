@@ -1,0 +1,23 @@
+ *{
+     margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+ }
+ /* body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+} */
+
+div {
+  border: 4px dashed blue;
+  border-radius: 10px;
+  height: 204px;
+  width: 204px;
+  background-color: red;
+  margin: auto;
+  margin-top: 250px;
+  /* flex-shrink: 0; */
+}
